@@ -6,12 +6,18 @@ The given code is for a cavity flow problem.
 
 The images below are for the 2-D case. 
 
-# U Velocity 
+### U Velocity 
 <p align="center">
   <img width="720" src="imgs/U_VEL_CPP.png" title="U Velocity Cavity Flow">
 </p>
 
-# V Velocity
+### V Velocity
 <p align="center">
   <img width="720" src="imgs/V_VEL_CPP.png" title="U Velocity Cavity Flow">
 </p>
+
+### Pressure Field 
+<p align="center">
+  <img width="720" src="imgs/P_3d_CPP.png" title="U Velocity Cavity Flow">
+</p>
+
