@@ -8,10 +8,10 @@ The images below are for the 2-D case.
 
 # U Velocity 
 <p align="center">
-  <img width="250" src="imgs/U_VEL_CPP.png" "Awesome!">
+  <img width="720" src="imgs/U_VEL_CPP.png" title="U Velocity Cavity Flow">
 </p>
 
-![alt text](https://github.com/ghostktjMactavish/PHY690Code/tree/master/imgs/U_VEL_CPP.png)
-
 # V Velocity
-![alt text](https://github.com/ghostktjMactavish/PHY690Code/tree/master/imgs/V_VEL_CPP.png)
+<p align="center">
+  <img width="720" src="imgs/V_VEL_CPP.png" title="U Velocity Cavity Flow">
+</p>
