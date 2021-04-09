@@ -18,6 +18,6 @@ The images below are for the 2-D case.
 
 ### Pressure Field 
 <p align="center">
-  <img width="720" src="imgs/P_3d_CPP.png" title="U Velocity Cavity Flow">
+  <img width="720" src="imgs/P_VEL_CPP.png" title="U Velocity Cavity Flow">
 </p>
 
